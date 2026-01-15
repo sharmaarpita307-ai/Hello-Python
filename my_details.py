@@ -1,7 +1,7 @@
 # Program to print  student details
 # Created by Arpita
 name = "Arpita Sharma"
-course = "B.tech"
+course = "B.tech CSE AI"
 sec = "IF"
 roll no = "23"
 interest = "Python and AIML"
