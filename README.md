@@ -2,7 +2,7 @@
 basic fundamentals of python
 ## Student Details
 Name: Arpita Sharma
-Cours: B.tech
+Course: B.tech CSE AI
 Sec: IF
 Roll no: 23
 Interest: Python and AIML
