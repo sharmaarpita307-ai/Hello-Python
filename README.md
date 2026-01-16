@@ -7,5 +7,5 @@ Sec: IF
 Roll no: 23
 Interest: Python and AIML
 ## Programs in this Repository
-hello.py - First Puthon program
+hello.py - First Python program
 my_details.py - Program to print student details
